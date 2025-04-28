@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- 🔭 I’m currently working on LDTT
- 🌱 I’m currently learning Angular & Springboot
+# 🔭 I’m currently working on LDTT
+# 🌱 I’m currently learning Angular & Springboot
 <!--
 **mathuzin/mathuzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
